@@ -12,14 +12,14 @@ The study systematically examines how **Generative Artificial Intelligence (GenA
 
 The repository is organized as follows:
 
-- **Dataset/**  
+- **Dataset-GenIA-UDL**  
   Contains the raw and processed data extracted from the included studies (e.g., Excel and CSV files), including:
   - Bibliographic information  
   - Study characteristics  
   - GenAI technologies used  
   - Educational contexts and accessibility focus  
 
-- **PRISMA-ScR-Fillable-Checklist/**  
+- **PRISMA-ScR-Fillable-Checklist**  
   Contains the completed **PRISMA-ScR checklist**  
   (*Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews*), a standardized reporting tool comprising **20 essential items and 2 optional items**.  
   The checklist is designed to enhance the **transparency and reporting quality** of scoping reviews by supporting the clear documentation of the **methodology, study selection, and evidence synthesis** processes.
