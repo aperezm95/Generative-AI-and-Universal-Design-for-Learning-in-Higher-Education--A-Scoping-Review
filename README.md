@@ -2,7 +2,7 @@
 
 This repository contains the **supplementary materials, datasets, and analysis resources** supporting the scoping review entitled:
 
-> **“Use of Generative Artificial Intelligence for Creating and Personalizing Accessible Educational Content under Universal Design for Learning Principles in Higher Education: A Scoping Review”**
+> **“Generative AI and Universal Design for Learning in Higher Education: A Scoping Review”**
 
 The study systematically examines how **Generative Artificial Intelligence (GenAI)** has been used to support the creation, adaptation, and personalization of **accessible educational content** in higher education, framed within the **Universal Design for Learning (UDL)** paradigm.
 
