@@ -19,11 +19,11 @@ The repository is organized as follows:
   - GenAI technologies used  
   - Educational contexts and accessibility focus  
 
-- **Analysis/** *(if applicable)*  
-  Scripts and intermediate files used for data cleaning, categorization, and synthesis.
+- **PRISMA-ScR-Fillable-Checklist/**  
+  Contains the completed **PRISMA-ScR checklist**  
+  (*Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews*), a standardized reporting tool comprising **20 essential items and 2 optional items**.  
+  The checklist is designed to enhance the **transparency and reporting quality** of scoping reviews by supporting the clear documentation of the **methodology, study selection, and evidence synthesis** processes.
 
-- **Supplementary/** *(if applicable)*  
-  Additional tables and materials referenced in the article (e.g., extended study lists).
 
 ---
 
